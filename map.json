@@ -145,6 +145,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/idSQ3hSLZ8Q"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
