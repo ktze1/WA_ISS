@@ -150,6 +150,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte dr\u00fccke Leertaste um youtube zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
