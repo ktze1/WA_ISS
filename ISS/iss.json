@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ISS\/bodenstation.json#entryFromISS"
+                 "value":"..\/bodenstation.json#entryFromISS"
                 }],
          "type":"tilelayer",
          "visible":true,
