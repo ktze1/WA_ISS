@@ -302,17 +302,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/idSQ3hSLZ8Q"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
-                }, 
-                {
-                 "name":"openWebsiteTriggerMessage",
-                 "type":"string",
-                 "value":"Bitte dr\u00fccke Leertaste um youtube zu \u00f6ffnen"
+                 "value":"https:\/\/lima.collocall.de\/b\/adm-tmd-gbm-v0k"
                 }],
          "type":"tilelayer",
          "visible":true,
