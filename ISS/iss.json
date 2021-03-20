@@ -197,7 +197,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb8\/",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb8\/"
                 }],
@@ -233,9 +233,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb6\/",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.linkemedienakademie.de\/lima-space-bbb6\/"
                 }],
          "type":"tilelayer",
          "visible":true,
