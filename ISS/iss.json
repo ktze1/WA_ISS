@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/sounds\/03_Sounds_Bleblub.mp3"
+                 "value":"03_Sounds_Bleblub.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
